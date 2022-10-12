@@ -1,2 +1,2 @@
 # FishMatchWebGLBuild
-Build of match3 game FushMatch
+Build of match3 game FishMatch
